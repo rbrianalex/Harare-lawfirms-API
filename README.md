@@ -1,0 +1,2 @@
+This model to explore the distribution of Law Firms in Harare, Zimbabwe, analyzing their geographic spread, accessibility, and and their ranking according to the number of lawyers per firm. By examining the spatial distribution of law firm in Harare this will hell the patients in harare to chose near by Law firms and select the best law firm according to their ranking.
+It was developed using google Api.
